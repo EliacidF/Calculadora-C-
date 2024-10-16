@@ -1,0 +1,17 @@
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.exe
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.deps.json
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.runtimeconfig.json
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.dll
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.pdb
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.Form1.resources
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.Properties.Resources.resources
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.csproj.GenerateResource.cache
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.AssemblyInfo.cs
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.dll
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\refint\calculadora.dll
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.pdb
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.genruntimeconfig.cache
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\ref\calculadora.dll
