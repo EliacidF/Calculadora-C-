@@ -711,7 +711,6 @@
             RtBoxDisplayHistory.Size = new Size(238, 405);
             RtBoxDisplayHistory.TabIndex = 9;
             RtBoxDisplayHistory.Text = "";
-            RtBoxDisplayHistory.TextChanged += RtBoxDisplayHistory_TextChanged;
             // 
             // pnlHistorial
             // 

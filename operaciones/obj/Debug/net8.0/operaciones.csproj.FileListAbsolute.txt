@@ -1,0 +1,12 @@
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\bin\Debug\net8.0\operaciones.deps.json
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\bin\Debug\net8.0\operaciones.dll
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\bin\Debug\net8.0\operaciones.pdb
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\obj\Debug\net8.0\operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\obj\Debug\net8.0\operaciones.AssemblyInfoInputs.cache
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\obj\Debug\net8.0\operaciones.AssemblyInfo.cs
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\obj\Debug\net8.0\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\obj\Debug\net8.0\operaciones.sourcelink.json
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\obj\Debug\net8.0\operaciones.dll
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\obj\Debug\net8.0\refint\operaciones.dll
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\obj\Debug\net8.0\operaciones.pdb
+C:\Users\TRASPASO\Documents\MEGA\calculadora\operaciones\obj\Debug\net8.0\ref\operaciones.dll

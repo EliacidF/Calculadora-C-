@@ -1,4 +1,5 @@
 ﻿using CustomControls.RJControls;
+using operaciones;
 
 namespace calculadora
 {
@@ -8,6 +9,7 @@ namespace calculadora
         string operacion = string.Empty;
         bool enterValue = false;
         double ultimoNumero = 0;
+        private Op_arimetica arimetica = new Op_arimetica();
 
         public Form1()
         {
@@ -51,8 +53,9 @@ namespace calculadora
         private void btnIgual_Click(object sender, EventArgs e)
         {
             double segNum;
+
             if (!double.TryParse(textdisplay1.Text, out segNum))
-                segNum = ultimoNumero;
+                segNum = ultimoNumero; 
 
             try
             {
@@ -61,41 +64,29 @@ namespace calculadora
                     return;
                 }
 
-                double tempResultado = resultado;
-
-                switch (operacion)
+                if (!enterValue)
                 {
-                    case "+":
-                        resultado += segNum;
-                        break;
-                    case "-":
-                        resultado -= segNum;
-                        break;
-                    case "X":
-                        resultado *= segNum;
-                        break;
-                    case "÷":
-                        if (segNum == 0)
-                        {
-                            textdisplay1.Text = "Error: División por cero no permitida";
-                            return;
-                        }
-                        resultado /= segNum;
-                        break;
+                    ultimoNumero = segNum;
                 }
 
+                double tempResultado = resultado;
+
+                resultado = arimetica.operacionmatematicas(resultado, ultimoNumero, operacion);
+
                 textdisplay1.Text = resultado.ToString();
-                textdisplay2.Text = $"{tempResultado} {operacion} {segNum} = {resultado}";
+
+                textdisplay2.Text = $"{tempResultado} {operacion} {ultimoNumero} = {resultado}";
+
                 RtBoxDisplayHistory.AppendText($"{textdisplay2.Text}\n");
 
-                ultimoNumero = segNum;
-
+                enterValue = true;
             }
             catch (Exception ex)
             {
                 textdisplay1.Text = ($"Error en el cálculo: {ex.Message}");
             }
         }
+
 
         private void Btn_Operaciones_Click(object sender, EventArgs e)
         {
@@ -111,11 +102,11 @@ namespace calculadora
                 {
                     case "√x":
                         textdisplay2.Text = $"√({num})";
-                        textdisplay1.Text = Math.Sqrt(num).ToString();
+                        textdisplay1.Text = arimetica.operacionAritmeticas(num, resultado, operacion).ToString();
                         break;
                     case "^2":
                         textdisplay2.Text = $"{num}^2";
-                        textdisplay1.Text = (num * num).ToString();
+                        textdisplay1.Text = arimetica.operacionAritmeticas(num, resultado, operacion).ToString();
                         break;
                     case "⅟":
                         if (num == 0)
@@ -124,15 +115,14 @@ namespace calculadora
                             return;
                         }
                         textdisplay2.Text = $"1/({num})";
-                        textdisplay1.Text = (1 / num).ToString();
+                        textdisplay1.Text = arimetica.operacionAritmeticas(num, resultado, operacion).ToString();
                         break;
                     case "%":
-
                         textdisplay2.Text = $"{resultado} * {num}%";
-                        textdisplay1.Text = ((resultado * num) / 100).ToString();
+                        textdisplay1.Text = arimetica.operacionAritmeticas(num, resultado, operacion).ToString();
                         break;
                     case "±":
-                        textdisplay1.Text = (-num).ToString();
+                        textdisplay1.Text = arimetica.operacionAritmeticas(num, resultado, operacion).ToString();
                         break;
                 }
                 RtBoxDisplayHistory.AppendText($"{textdisplay2.Text} = {textdisplay1.Text}\n");
@@ -169,7 +159,7 @@ namespace calculadora
         private void bntLimpiarHistorias_Click(object sender, EventArgs e)
         {
             RtBoxDisplayHistory.Clear();
-            RtBoxDisplayHistory.Text = "No tienes Historial disponible";
+           
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -180,19 +170,6 @@ namespace calculadora
         private void button2_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
-        }
-
-        private void RtBoxDisplayHistory_TextChanged(object sender, EventArgs e)
-        {
-            TextBox RtBoxDisplayHistory = new TextBox();
-
-            RtBoxDisplayHistory.Multiline = true;
-
-            RtBoxDisplayHistory.ScrollBars = ScrollBars.Horizontal;
-            RtBoxDisplayHistory.AcceptsReturn = true;
-            RtBoxDisplayHistory.AcceptsTab = true;
-            RtBoxDisplayHistory.WordWrap = true;
-            RtBoxDisplayHistory.Text = "Bienbenido";
         }
     }
 }

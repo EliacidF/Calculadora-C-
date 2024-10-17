@@ -15,3 +15,8 @@ C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-window
 C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.pdb
 C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.genruntimeconfig.cache
 C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\ref\calculadora.dll
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.sourcelink.json
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.csproj.AssemblyReference.cache
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\bin\Debug\net8.0-windows\operaciones.dll
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\bin\Debug\net8.0-windows\operaciones.pdb
+C:\Users\TRASPASO\Documents\MEGA\calculadora\calculadora\obj\Debug\net8.0-windows\calculad.32F6ED5B.Up2Date

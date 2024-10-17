@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{205926A5-DAE9-4D53-B2B3-54B59D1A9881}|calculadora\\calculadora.csproj|c:\\users\\traspaso\\documents\\mega\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205926A5-DAE9-4D53-B2B3-54B59D1A9881}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47D27E6-FD6C-4AA5-9402-510D44FC2F79}|operaciones\\operaciones.csproj|c:\\users\\traspaso\\documents\\mega\\calculadora\\operaciones\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47D27E6-FD6C-4AA5-9402-510D44FC2F79}|operaciones\\operaciones.csproj|solutionrelative:operaciones\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205926A5-DAE9-4D53-B2B3-54B59D1A9881}|calculadora\\calculadora.csproj|C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{205926A5-DAE9-4D53-B2B3-54B59D1A9881}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205926A5-DAE9-4D53-B2B3-54B59D1A9881}|calculadora\\calculadora.csproj|c:\\users\\traspaso\\documents\\mega\\calculadora\\calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205926A5-DAE9-4D53-B2B3-54B59D1A9881}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205926A5-DAE9-4D53-B2B3-54B59D1A9881}|calculadora\\calculadora.csproj|C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{205926A5-DAE9-4D53-B2B3-54B59D1A9881}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\Form1.cs",
+              "RelativeToolTip": "calculadora\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:13:39.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\operaciones\\Operacion.cs",
+              "RelativeDocumentMoniker": "operaciones\\Operacion.cs",
+              "ToolTip": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\operaciones\\Operacion.cs",
+              "RelativeToolTip": "operaciones\\Operacion.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:44:50.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\Form1.resx",
+              "RelativeDocumentMoniker": "calculadora\\Form1.resx",
+              "ToolTip": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\Form1.resx",
+              "RelativeToolTip": "calculadora\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-16T09:13:33.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "calculadora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\Form1.Designer.cs",
+              "RelativeToolTip": "calculadora\\Form1.Designer.cs",
+              "ViewState": "AQIAALUCAAAAAAAAAAAnwMkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:12:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\TRASPASO\\Documents\\MEGA\\calculadora\\calculadora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "calculadora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:12:16.127Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
